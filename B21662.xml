@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A tender and Christian testimony to young people and others whom it may concern in this present day, who walk with us under the profession of the blessed truth.</title>
+            <author>Elson, Mary, 1623 or 4-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21662</idno>
+            <idno type="STC">Wing E642</idno>
+            <idno type="EEBO-CITATION">11230187</idno>
+            <idno type="OCLC">ocm 11230187</idno>
+            <idno type="VID">204926</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B21662)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204926)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1440:44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A tender and Christian testimony to young people and others whom it may concern in this present day, who walk with us under the profession of the blessed truth.</title>
+                  <author>Elson, Mary, 1623 or 4-1707.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Elson by Wing and NUC pre-1956 imprints.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+               <term>Inner Light.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204926:1"/>
+            <pb facs="tcp:204926:1" rendition="simple:additions"/>
+            <p>A Tender and Chriſtian TESTIMONY TO <hi>Young People</hi> And others, whom it may concern in this preſent day Who walk with us under the Profeſſion of the bleſſed Truth.</p>
+            <p>Printed in the Year 1685.</p>
+         </div>
+      </front>
+      <body>
+         <div type="religious_tract">
+            <pb facs="tcp:204926:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:204926:2"/>
+            <head>A Teſtimony of LOVE, in tender Advice and Counſel, to a Young Men, and others, who profeſs the Truth.</head>
+            <opener>
+               <salute>Dear Friends;</salute>
+            </opener>
+            <p>WE whom God hath raiſed in the Morning of his Day, to be a kind of firſt Fruits unto himſelf, do in a living ſenſe of the Truth, and in a true reſpect to the Proſperity and Glory of it, tenderly adviſe Young men, and others, who are of late Convincement, that you uſe all dillgence and circum<g ref="char:EOLhyphen"/>ſpection in your ſeveral places and callings (in Converſation and Practice) to anſwer that holy Principle which in words you do pro<g ref="char:EOLhyphen"/>feſs, and eſpecially to beware of a falſe Liberty, which ſome take to themſelves, that Truth allows not of, particularly that of <hi>Faſhioning according to the courſe and cuſtom of this World,</hi> which creates a great offence unto many, who are apt to conclude there is no ſtability amongſt us, more than in other Profeſſions, when they ſee how ſe<g ref="char:EOLhyphen"/>veral conform to, and let in Superfluity, Curioſity and Coſtlineſs in Habit and Apparel, which evidently beſpeaks the vanity of ſuch Minds, and become not men really profeſſing Godlineſs, <hi>Whoſe adorning is, and always was inward, in the hidden man, in the heart;</hi> and bleſſed be God, many are ſettled down into the ſenſe of it, not being ſubject to alter or change, but daily denying themſelves, take up the Croſs to all outward and periſhing things, and being ſtedfaſt in the Faith, become examples of Righteouſneſs, Gravity &amp; Sincerity unto others, ſome of whom through Careleſneſs and Negligence, have cooled their Affections and Love to the Truth, whereby they become weak, and grow into a feeble ſtate, ſometimes put on <hi>Gay Clothing,</hi> with <hi>Sumptuous and Coſtly Array,</hi> ſuch as many of us for Truth's ſake have deny'd and put off; which, as it is a Stumbling-block to thoſe that are without, ſo an Exerciſe and Grief to us, who are concern'd for the Lord, whoſe Power and Spirit hath mightily wrought in us, to ſubdue and bring under the carnal Mind, with its Affections and Luſts; which in the weighty and ſerious Life we ex<g ref="char:EOLhyphen"/>hort you to watch againſt, and ſuffer not that which is unſavoury and corrupt to ariſe, nor give place to it, but by the Spirit reſiſt
+<pb n="4" facs="tcp:204926:3"/>every Appearance of Evil, and dwell in the ſeaſoning Power, that ye may be as the Salt of the Earth, <hi>and Lights to the World, that they ſeeing your good Works, and orderly Converſation, may glorifie your Fa<g ref="char:EOLhyphen"/>ther who is in Heaven.</hi>
+            </p>
+            <p>And <hi>Friends,</hi> our further advice and counſel to you is, that you keep inward with the Lord, and out of the Hurries and Buſles that are in the World, which we ought not to be concerned in, who are ſeeking for a heavenly Kingdom, and Immortality and Glory, far tranſcending the Splendor and Luſtre of this World, which Chriſt ſaid, his Kingdom was not of, but conſiſts in Righteouſneſs and Peace, in which peaceable Spirit of Righteouſneſs, we deſire all may be found, and not to be buſied in matters relating to outward Go<g ref="char:EOLhyphen"/>vernment and Rule, which belongs not to us, but are for ſuch on whom it pleaſeth God them to beſtow; wherefore we caution all to be careful that no real occaſion be given, by Words or Actions, for any to be eſteemed as <hi>Buſie-Bodies</hi> on that account, but be ye fervent with the Lord, and ſtrong in the Power of his Might, as good Soul<g ref="char:EOLhyphen"/>diers of Chriſt, to endure Hardſhips; ſuffer, not as evil-doers, but for the Teſtimony of Faith and a good Conſcience towards God, and the Crown Immortal you ſhall receive, which is laid up, not only for us, who are at preſent tribulated and afflicted for Righteouſneſs ſake, but for all them that love the Appearance of our Lord Jeſus Chriſt.</p>
+            <p>So, to the Word of his Grace we commend you all for further Counſel and Direction, and with the tender Salutation of our Love, reſt,</p>
+            <closer>
+               <dateline>Devonſhire-Houſe Monethly-Meeting, <date>the 8th of the 5th Moneth, 1685.</date>
+               </dateline> 
+               <signed>Your Friends and Brethren in the precious Truth,
+<list>
+                     <item>William Ingram,</item>
+                     <item>William Crouch,</item>
+                     <item>Richard Whitpane,</item>
+                     <item>Gilbert Mace.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="religious_tract">
+            <pb n="5" facs="tcp:204926:3"/>
+            <head>A tender and Chriſtian Teſtimony to Young People, and others, whom it may concern in this preſent Day.</head>
+            <opener>
+               <salute>Friends;</salute>
+            </opener>
+            <p>WE having a weight on our Spirits, and Godly care on our Minds, and a holy Jealouſie, in reſpect to the Honour and Proſperity of the bleſſed Truth you and we walk under the Profeſſion of, find a neceſſity thus to remind you, and to ſtir up one another to our Exerciſe in the Light of Chriſt Jeſus, which firſt convinced us of Sin and Evil, ſhewing us, that to be the Way and the Truth, that leads out of all Defilements, both of Fleſh and Spirit, into the Life of Holineſs and Righteouſneſs, in the whole courſe of our Converſation, ſo that to the World and all that are without, our Lives may ſpeak, that the Grace that hath appeared to all, we have received; for by the effectual work of it, we deny all Ungodlineſs and Worldly Luſts, <hi>The Luſt of the Eye, the Luſt of the Fleſh, and the Pride of Life,</hi> which are of the evil One. And by this that firſt convinced us, this Principle of Light and Spirit of Grace, we are led to live <hi>godly, ſoberly and righteouſly in this preſent evil World,</hi> in which the Temptations are.</p>
+            <p>Now Friends, we looking back to the Purity we beheld in the firſt breaking forth of the Light of Chriſt among us, 'tis not leſs beautiful in it ſelf, but more to us through the clearer ſhinings of it in the Myſtery of the Croſs of Chriſt Jeſus, which is Fooliſhneſs to the World, but to us that believe in it, the Power of God for Sal<g ref="char:EOLhyphen"/>vation, out of the pollutions of the World, that enters through the Luſting Eye, or Fleſh, or Pride of Life, which our fervent Breathings are to God, that we may be preſerved from turning back into again, looking to our firſt ſteps in Truth's way: Oh! the ſtrength we were one to another, through our Unity, each watching for the others good, as well as our own, fearing to draw one another from the ſtay of our Minds, did not forget the bridle to the Tongue, through unprofitable talking, whiſpering, or evil ſpeaking one of another behind the back; but if any thing did lie upon one, to inform, exhort and reprove one another, that we did in a holy awe (as
+<pb n="6" facs="tcp:204926:4"/>became them that walked in the Light) to the particulars faced concerned.</p>
+            <p>Moreover, conſider the Comlineſs of that Plainneſs, that at the firſt the Truth led us to, by which we were diſtinguiſhed from other Profeſſors and People of the World, who if we were then reproached for it, it was for Truth's ſake, which the upright minded to God valu'd above all the vain Glory of the World. And with ſuch do you con<g ref="char:EOLhyphen"/>ſider, that wear the gay-clothing, which ſpeaks not the weight and gravity of Truth, the coſtly array, and ſo much conform to the Faſhions of the World, yet walk under the Profeſſion of Truth with us; In the fear and love of God we beſeech you, as Children, Retire to the Light of Chriſt in you, and there feel our burden for you, and the reproach and diſhonour of the precious Truth by you, whilſt the world ſaith, <hi>The Quakers are now like us, they want only Lace &amp; Ribbands.</hi> Our end is not to upbraid any, but to remind you how our religious Profeſſion is upbraided; for with the Light you will ſee, there may be, and is Superfluity in Habit, although no Lace and Ribbands; neither would we have you provoked, but to the Love of the Light of Chriſt in you, becauſe <hi>they that love the Light, bring their deeds to be manifeſted by the Light, and receive the Reproofs and Inſtuctions of it, for they are the way to Life.</hi> Now this we do enjoyn upon you, and are ſeeking for you, even that the holy Principle of Truth may take place in you, ſo as to ſeaſon you in all good Manners of Life and Converſation, as thoſe that profeſs Godlineſs.</p>
+            <p>Remember what the Apoſtle ſaith in 1 <hi>Tim. Let the Women adorn themſelves in Modeſt Apparel, and with Sobriety, and not with broidered Hair, Gold, or coſtly Array.</hi> And in <hi>Peter,</hi> read, how the godly Wo<g ref="char:EOLhyphen"/>mens adorning was to be inward, <hi>not in putting on Apparel, &amp;c.</hi> Now having known a Mortification through the Croſs of Chriſt, and in this, as well as other things, deny'd our ſelves, &amp; put off theſe things we had liberty in before we profeſſed the Truth, to ſuch its now ſtrange to ſee what ſome put on, ſo much more coſtly, &amp; far exceeding what<g ref="char:EOLhyphen"/>ever they wore, before they came to profeſs the Truth; and indeed unſuitable to Truth's Gravity, and Chriſtian Society, as if that which crucifies to the World, and leads to Self-denial, were for<g ref="char:EOLhyphen"/>gotten. The Lord help to ſtop theſe things that hinders the work of God, and ſtops that holy progreſs in the Life of Truth.</p>
+            <p>Furthermore, we cannot but remind here amongſt us, <hi>Young People</hi> that have little in the World, yet deck themſelves, as if they had great
+<pb n="7" facs="tcp:204926:4"/>matters, and thereby draw out the Mind one after another, into high expectations; in this Circumſtance there is oft times a Falacy and Deceit, and the end of it proves of a bad effect, by diſappointment; but at beſt, this beſpeaks not the Modeſty, Sincerity or Weight of Truth. Now, pray Friends, bear with us; for it is the Truth of God, which is moſt precious, both in Faith and Life, which is our concern herein, and that the Croſs of Chriſt, in which the ſum of Chriſtianity conſiſts, may not be made void, and our holy Profeſſion may not be ſcandalized by things unbecoming Truth and us; in which a falſe Liberty is creeping up, to the hurt and hindrance of Truth's Proſperity; but in the Light all is diſcerned, and ſtrength miniſtred to withſtand; Therefore our Teſtimony is to <hi>Elder</hi> and <hi>Younger,</hi> that in all things we all may keep to the Touch-ſtone, and Guidance of the holy Principle that firſt convinced us. And you, the <hi>Younger Friends,</hi> be not as thoſe that are grown beyond Reproof, but eſteem of them that are before you in the Truth, as the Elder Women that are in our Duty, which is, <hi>To teach the Younger in all good things,</hi> and alſo to reprove and admoniſh concerning <hi>evil things,</hi> and the Elder and Yonger may walk in Truth in all things harmleſs and blameleſs. Let us all mind that which keeps in humility, fear and godly ſincerity; and thoſe that are Mothers of Children, in all holy circumſpection to watch over them, that the Vanity of the Mind may not be encouraged, but curbed, and kept down. And thoſe Servants that profeſs the Truth, which will not be ſubject in their places in theſe things that are wholſom, honeſt and juſt, but take liberty as they will, being ſtubborn and perverſe, not anſwering the bleſſed Principle of Truth, ſo becoming a ſtumbling to them with<g ref="char:EOLhyphen"/>out, an ill example to our Children and Families within, a ſore diſ<g ref="char:EOLhyphen"/>order, and grievous burden that many bears by them; but ſuch Ser<g ref="char:EOLhyphen"/>vants we exhort to fear the Lord, and take heed how they perſiſt in going contrary to the holy Truth they profeſs, but turn into the meaſure of God's Spirit of Grace, and with the Light of Chriſt ex<g ref="char:EOLhyphen"/>amine their own Spirits and manners of Life, and with a ſubject mind read what the Apoſtle teacheth Servants in their places, as well as Maſters and Miſtriſſes; <hi>Col.</hi> 3.22. <hi>Servants, obey in all things your Maſters, according to the Fleſh, not with Eye-Service,</hi> and ſo on to the end of that Chapter, <hi>Epheſ.</hi> 6.5, 6, 7. alſo read <hi>Tit.</hi> 2.9, 10. 1 <hi>Pet.</hi> 2.18. &amp; 1 <hi>Tim.</hi> 6.1, 2. <hi>Let as many Servants as are under the Yoke, count their Maſters worthy of all honour, that the Name of God, and his
+<pb n="8" facs="tcp:204926:5"/>Doctrine be not blaſphemed.</hi> We pray God, that Servants with meek<g ref="char:EOLhyphen"/>neſs and fear, would lay to heart what the Spirit of God ſpeaks in themſelves, as alſo what the Spirit hath ſpoke through the Apoſtle, to the Servants ſtate, that ſo the Truth they might do, as well as know and profeſs, and then they will be ſenſible that our Exerciſe is for the Proſperity of Truth in all. And <hi>Maſters,</hi> do ye the ſame things as the Apoſtle ſaith, <hi>Col.</hi> 4.1. <hi>Give unto your Servants that which is equal and juſt.</hi> And <hi>Miſtreſſes</hi> of Families to be Examples to your Servants in the fear of the Lord, in Humility and Chriſtian Gentleneſs, that as in our ſeveral Stations we are called, and gathered into the harmony of Truth, that ſo all may grow up, and proſper therein, that ſo we may be a good ſavour to God in our day, and to the Generation that ſhall ſucceed us in the Truth and Service of the Lord, which he daily confirms us in, through his heavenly Preſence with us; his Name be honoured, the Witneſs in all hearts anſwered, we through his Word of Life confirmed and ſtrengthened to every good Work, for which let us always wait on the Lord, to whoſe Spirit of Grace we commit the whole Flock and Family of God, for Inſtruction and Preſervation unto the end, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>From our Womens-Meeting at the <hi>Bull</hi> and <hi>Mouth,</hi> 
+                  <date>the 8th of the 4th Moneth, 1685.</date>
+               </dateline>
+               <signed>Theſe Names for, and in the behalf of the reſt of the faithful Members of our Meeting;
+<list>
+                     <item>Mary Elſon,</item>
+                     <item>Jane Bland,</item>
+                     <item>Hannah Taylor,</item>
+                     <item>Anne Whitehead,</item>
+                     <item>Margaret Meakins,</item>
+                     <item>Sarah Milnar,</item>
+                     <item>Lucreſie Cook,</item>
+                     <item>Elizabeth Fuller,</item>
+                     <item>Agnes Poole,</item>
+                     <item>Marabel Farnsbury,</item>
+                     <item>Suſannah Dew,</item>
+                     <item>Elizabeth Camfield,</item>
+                     <item>Grace Bathurſt,</item>
+                     <item>Mary Plumſtead,</item>
+                     <item>Ruth Crouch,</item>
+                     <item>Martha Fiſher,</item>
+                     <item>Bridget Ford,</item>
+                     <item>Sibel Adſon,</item>
+                     <item>Conſtant Atridge,</item>
+                     <item>Mary Ellis.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:204926:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
